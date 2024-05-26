@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Data;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("hola a la calculadora magica");
 int a;
 int b;
 a=10;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj": {}
+    "C:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj": {
+    "C:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj",
         "projectName": "tl1-tp6-2024-metzgermeist",
-        "projectPath": "c:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\tl1-tp6-2024-metzgermeist.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Taller1\\TP6\\tl1-tp6-2024-metzgermeist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
